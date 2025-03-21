@@ -136,7 +136,7 @@ The project includes a Tkinter-based drawing interface where users can:
     
 
 The drawn image is preprocessed and resized to 28x28 pixels before being fed into the model for prediction.
-![Sample UI](https://github.com/MemaroX/hand-written-numbers-recognition/blob/main/image.png)
+![Sample UI](https://github.com/MemaroX/hand-written-numbers-recognition/blob/main/UI_image.png)
 
 ----------
 
@@ -144,7 +144,7 @@ The drawn image is preprocessed and resized to 28x28 pixels before being fed int
 
 The model achieves high accuracy on both the training and test sets, demonstrating its ability to classify handwritten digits effectively. Below are some sample predictions from the test set:
 
-![Sample Predictions](https://github.com/MemaroX/hand-written-numbers-recognition/raw/main/image.png)  
+![Sample Predictions](https://github.com/MemaroX/hand-written-numbers-recognition/blob/main/PredectionSample_image.png)  
 
 ----------
 
